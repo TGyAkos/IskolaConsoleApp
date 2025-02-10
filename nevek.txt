@@ -1,8 +1,8 @@
-2004;d;Vavrek Kristóf
-2006;e;Hidas Répka
+2004;d;Vavrek KristÃ³f
+2006;e;Hidas RÃ©pka
 2006;d;Kun Michael
-2021;a;Fekete Péter
+2021;a;Fekete PÃ©ter
 2012;c;Kis Anna
-2008;b;Fehér Renáta
-2012;a;Péter Pál
-2008;c;Ehn András
+2008;b;FehÃ©r RenÃ¡ta
+2012;a;PÃ©ter PÃ¡l
+2008;c;Ehn AndrÃ¡s
